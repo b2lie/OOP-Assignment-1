@@ -192,8 +192,6 @@ class RollerCoaster {
 };
 
 int main () {
-    cout << "23K-0672\t\tSyeda Batool Kazmi\n";
-
     RollerCoaster coaster1;
     RollerCoaster coaster2("My Roller Coaster", 80.5, 70.25, 6);
 
