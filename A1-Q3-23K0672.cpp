@@ -160,8 +160,6 @@ class ChessBoard {
 };
 
 int main () {
-    cout << "23K-0672\t\tSyeda Batool Kazmi";
-
     ChessBoard cb1;
     cb1.display();
 
