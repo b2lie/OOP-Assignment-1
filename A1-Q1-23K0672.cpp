@@ -213,8 +213,6 @@ class Adopter {
 };
 
 int main () {
-    cout << "23K-0672\t\tSyeda Batool Kazmi\n\n";
-
     Pet p1, p2;
     Adopter a1("Batool", "123"), a2("Zainab", "234");
 
