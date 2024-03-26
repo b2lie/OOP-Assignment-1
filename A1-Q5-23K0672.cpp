@@ -309,8 +309,6 @@ public:
 };
 
 int main() {
-    cout << "23K-0672\t\tSyeda Batool Kazmi\n";
-
     Restaurant r1("Food Haven", "City Center");
     r1.setMenu(3);
     r1.setCouponList();
