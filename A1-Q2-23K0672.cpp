@@ -143,8 +143,6 @@ void EmptyTable(Table *array, int size, int table_num) {
 }
 
 int main () {
-    cout << "23K-0672\t\tSyeda Batool Kazmi\n";
-    
     Table myTables[5];
     myTables[0].setSeatsNum(8);
     myTables[1].setSeatsNum(8);
